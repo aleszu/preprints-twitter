@@ -12,4 +12,4 @@ The other model, seen with the 'Chloroquine diphosphate in two different dosages
 
 This analysis was performed in RStudio using the packages 'tidyverse', 'rtweet' and 'twinetverse'. There may be gaps in the Twitter data, given the limitations with Twitter's free API tier. It should be noted that medRxiv URLs aren't very popular and we crossreferenced our data with software like 'twint' and 'hydrator' to spot-check for completeness.
 
-[img](https://github.com/aleszu/preprints-twitter/blob/master/app-screenshot.001.jpeg)
+![img](https://github.com/aleszu/preprints-twitter/blob/master/app-screenshot.001.jpeg)
