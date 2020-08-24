@@ -2,7 +2,7 @@
 
 This Shiny app is a behind the scenes look at a selection of the preprint studies Jeff Howe and I wrote about in a May 14, 2020 piece in New York Times Opinion: ["A Study Said Covid Wasn’t That Deadly. The Right Seized It."](https://www.nytimes.com/2020/05/14/opinion/coronavirus-research-misinformation.html)
 
-Explore the app [here](storybench.shinyapps.io/preprints-twitter/).
+Explore the app [here](https://storybench.shinyapps.io/preprints-twitter/).
 
 ## Methods
 
